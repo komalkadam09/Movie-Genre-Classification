@@ -68,5 +68,4 @@ python main.py
 - Accuracy: 57.91%
 
 ## Author
-
-Shraddha Khalkar
+Komal Kadam
